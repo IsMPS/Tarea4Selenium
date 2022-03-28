@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/byte-buddy-1.12.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/error_prone_annotations-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/failsafe-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-buffer-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-codec-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-codec-http-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-codec-socks-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-common-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-handler-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-handler-proxy-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-resolver-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-tcnative-classes-2.0.46.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-transport-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-transport-classes-epoll-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-transport-classes-kqueue-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-transport-native-epoll-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-transport-native-kqueue-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/netty-transport-native-unix-common-4.1.73.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-api-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-context-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-exporter-logging-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-common-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-extension-autoconfigure-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-extension-autoconfigure-spi-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-logs-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-metrics-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-sdk-trace-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/opentelemetry-semconv-1.10.1-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-api-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-api-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-chrome-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-chrome-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-chromium-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-chromium-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v85-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v85-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v95-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v95-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v96-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v96-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v97-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-devtools-v97-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-edge-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-edge-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-firefox-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-firefox-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-firefox-xpi-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-firefox-xpi-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-http-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-http-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-ie-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-ie-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-java-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-java-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-json-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-json-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-opera-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-opera-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-remote-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-remote-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-safari-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-safari-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-support-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/selenium-support-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/eclipse-workspace/Selenium/Libs/slf4j-api-1.7.35.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
